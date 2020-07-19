@@ -1,773 +1,261 @@
 <prescription xmlns="http://greenify.github.io/schemas/prescription/v3" type="activity" sender="any">
     <intent-filter>
         <action name="cn.domob.android.ads.DomobActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="cn.wps.moffice.common.interstitial.MoPubInterstitialAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="cn.wps.moffice.common.interstitial.MoPubNativeInterstitialAdsActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="cn.wps.moffice.main.push.backkeyad.BackkeyAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.amazon.device.ads.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.appicplay.sdk.ad.activity.APADViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.appicplay.sdk.ad.activity.APIVideoADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.baidu.mobad.feeds.BaiduActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.baidu.mobads.AppActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.baidu.mobads.production.rewardvideo.MobRewardVideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.baidu.tieba.ad.browser.AdTbWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.baidu.tieba.ad.browser.newstyle.NewAdTbWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bilibili.ad.adview.imax.AdIMaxActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bilibili.ad.adview.web.AdMWebActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bilibili.ad.adview.web.AdWebActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bilibili.ad.adview.web.apkdownload.AdDownloadQusActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bilibili.ad.apkdownload.AdNotificationQusActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bilibili.ad.utils.permission.PermissionActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTDelegateActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTFullScreenExpressVideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTFullScreenVideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTLandingPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTPlayableLandingPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTRewardExpressVideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTRewardVideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.bytedance.sdk.openadsdk.activity.TTVideoLandingPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.cainiao.wireless.homepage.view.activity.AdsActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.cainiao.wireless.homepage.view.activity.AdsWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.chartboost.sdk.CBImpressionActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.cloudtech.ads.view.InnerWebLandingActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.cloudtech.appwall.AppwallActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.cmcm.cmgame.ad.tt.FakeTTDelegateActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.dm.sdk.ads.DMAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.Stub1Activity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.Stub1SIActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.Stub1STAActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.Stub1STOctivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.StubActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.StubSIActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.StubSTAActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.StubSTOctivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.donews.ad.sdk.stub.StubService" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.douban.ad.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.facebook.ads.AudienceNetworkActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.google.ads.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.google.android.gms.ads.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.google.android.gms.ads.purchase.InAppPurchaseActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.inmobi.androidsdk.IMBrowserActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.inmobi.rendering.InMobiAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.iqiyi.video.qyplayersdk.cupid.activity.ADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.iqiyi.video.qyplayersdk.cupid.activity.ADIndependentActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.jdwx.sdk.JDAdBrowser" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.jingdong.app.mall.ad.ADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.jirbo.adcolony.AdColonyBrowser" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.jirbo.adcolony.AdColonyBrowser" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.jirbo.adcolony.AdColonyFullscreen" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.jirbo.adcolony.AdColonyOverlay" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.keymob.sdk.core.KeymobActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.ads.feev4.activity.FeeV4VideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppInterstitialADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppLandscapeADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppLandscapeADActivity1" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppLandscapeADActivity2" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppLandscapeADActivity3" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppLandscapeADActivity4" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppLandscapeADActivity5" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppPortraitADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppPortraitADActivity1" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppPortraitADActivity2" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppPortraitADActivity3" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppPortraitADActivity4" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppPortraitADActivity5" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardLandscapeADActivity1" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardLandscapeADActivity2" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardLandscapeADActivity3" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardLandscapeADActivity4" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardLandscapeADActivity5" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardPortraitADActivity1" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardPortraitADActivity2" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardPortraitADActivity3" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardPortraitADActivity4" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.MiniAppRewardPortraitADActivity5" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kugou.android.app.miniapp.ad.PrepareAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kyview.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.kyview.AdviewWebView" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.luomi.lm.ad.WebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.meituan.android.pt.group.poi.push.PushAdvertisementActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.millennialmedia.android.MMActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.mob.adsdk.activity.BADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.mob.adsdk.activity.LandscapeADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.mob.adsdk.activity.PortraitADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.mob.adsdk.activity.WebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.mopub.mobileads.MoPubActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.mopub.mobileads.MraidActiviy" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.mopub.mobileads.MraidVideoPlayerActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.my.target.ads.MyTargetActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.netease.moneykeeper.ui.ad.AdDialogActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.netease.newsreader.common.ad.addownload.AdDownloadManageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.netease.nr.biz.ad.ExtraAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.netease.nr.biz.pc.addownload.AdDownloadManageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.oppo.mobad.activity.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.qq.e.ads.ADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.qq.e.ads.LandscapeAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.qq.e.ads.PortraitADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.qq.e.ads.RewardvideoLandscapeAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.qq.e.ads.RewardvideoPortraitADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.sankuai.meituan.poi.push.PushAdvertisementActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.sigmob.sdk.base.common.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.sina.weibo.movie.startup.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.sohu.app.ads.sdk.common.widget.webview.SohuAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.sohu.app.ads.sdk.common.widget.webview.SohuVideoDetailPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.sohu.app.ads.sdk.settings.AdSettingActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.ad.activity.SingleTaskBrowserActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.ad.brandlist.AdBrandDetailActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.ad.landingpage.AdBrowserActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.ad.landingpage.AdLandingPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.ad.lp.browser.AdLpBrowserActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.article.base.feature.app.browser.AdBrowserActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.ugc.aweme.app.AdsAppActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.ss.android.ugc.aweme.feed.ad.BottomFormDialog" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.taobao.tao.ad.AdNavActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.ads.canvasad.AdCanvasActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.ads.landing.AdLandingPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.mm.plugin.appbrand.ad.ui.AppBrandAdUI" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.mm.plugin.appbrand.ad.ui.AppBrandAdUI1" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.mm.plugin.appbrand.ad.ui.AppBrandAdUI2" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.mm.plugin.appbrand.ad.ui.AppBrandAdUI3" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.mm.plugin.appbrand.ad.ui.AppBrandAdUI4" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.novel.WebNovelActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.splash.AdCanvasActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.ui.activity.AdBrandActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.ui.activity.AdBrandGuestActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.ui.activity.AdNativeCanvasActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.ui.activity.CustomWebGameForItemActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.ui.activity.VideoAdLandingActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.ui.activity.WebAdvertActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.business.ui.activity.WebVideoAdvertActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.splash.AdCanvasActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.ui.activity.AdNativeCanvasActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.ui.activity.VideoAdLandingActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.ui.activity.WebAdvertActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.ui.activity.WebDialogActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.tad.ui.activity.WebVideoAdvertActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.news.ui.ADInnerJumpActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.qqlive.ona.ad.AdExternalFormActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.qqlive.ona.browser.AdLandPageH5Activity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.qqlive.tad.download.TadCancelActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.qqlive.tad.splash.AdCanvasActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.qqlive.tad.splash.AdLandingPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.reading.module.splash.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.reading.tad.myad.ui.view.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.reading.tad.ui.WebAdvertActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.reading.tad.ui.WebDialogActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tads.splash.AdLandingPageActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_00" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_00_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_01" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_01_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_02" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_02_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_03" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_04" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_05" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_06" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_07" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_08" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTKStub_09" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_00" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_00_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_01" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_01_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_02" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_02_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_03" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_04" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_05" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_06" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_07" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_08" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SGTStub_09" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_00" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_00_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_01" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_01_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_02" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_02_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_03" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_04" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_05" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_06" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_07" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_08" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$SIStub_09" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_00" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_00_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_01" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_01_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_02" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_02_T" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_03" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_04" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_05" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_06" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_07" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_08" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.tinker.loader.hotplug.ActivityStubs$STDStub_09" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.vas.adsdk.pkadvertisement.PkAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.tencent.vas.adsdk.webview.BrowserActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.vivo.mobilead.web.VivoADSDKWebView" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.vpadn.widget.VpadnActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.weibo.mobileads.view.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.weibo.mobileads.view.FlashAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xiaomi.ad.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xiaomi.ad.puppet.AdPuppetActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yandex.mobile.ads.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yidian.ad.install.InstallTransferActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yidian.ad.ui.content.AdVideoContentActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yidian.ad.ui.content.ad_picture_gallery.AdPictureGalleryActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yidian.ad.ui.content.ad_picture_gallery.AdSuperPictureGalleryActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yidian.ad.ui.splash.SplashActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yidian.ad.ui.splash.SplashAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.yidian.ad.ui.splash.test.InternalLaunchScreenActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youdao.dict.activity.YDAdWebActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.zhangyue.ad.ui.video.AdVideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.zhangyue.ireader.zyadsdk.ads.ADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.zhaocai.ad.sdk.ZhaoCaiActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.zhaocai.ad.sdk.content.ChannelActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.zhaocai.ad.sdk.content.ContentActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="fm.qingting.qtradio.ad.dynamic.GifAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="fm.qingting.qtradio.ad.dynamic.VideoAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="net.youmi.android.AdBrowser" />
-    </intent-filter>
-    <intent-filter>
         <action name="org.na.ad.ui.AppActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="org.qiyi.android.card.ad.AdFormActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="org.qiyi.android.video.activitys.AdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="org.qiyi.android.video.ad.ArAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="org.qiyi.android.video.ad.ArAdShareActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="org.qiyi.video.playrecord.ad.ADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="org.qiyi.video.playrecord.ad.ADIndependentActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.cbx.cbxlib.ad.ADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.downloadprovider.ad.cmgame.CmGameCenterActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.downloadprovider.ad.cmgame.CmGameGuideActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.downloadprovider.ad.common.browser.WebViewADActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.downloadprovider.ad.common.browser.WebViewToutiaoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.downloadprovider.ad.install.AppInstallInDisguiseClientActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.downloadprovider.ad.revive.ReviveAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.downloadprovider.ad.reward.activity.RewardVideoActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.xunlei.video.ad2.activity.GdtAdActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youdao.sdk.nativeads.YouDaoInterstitialActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.AdPlayerWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.AdWVWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.LaifengAdWVWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.LaifengUCAdWVWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.UCAdPlayerWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.UCAdWVWebViewActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.download.DownloadManagerActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.ad.detail.container.download.LaifengDownloadManagerActivity" />
-    </intent-filter>
-    <intent-filter>
         <action name="com.youku.player.ad.AdWebViewActivity" />
     </intent-filter>
 </prescription>
